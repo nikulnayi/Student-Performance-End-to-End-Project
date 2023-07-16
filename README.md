@@ -1,4 +1,3 @@
-readme_content = """
 # Student Performance End-to-End Project
 
 This project aims to analyze and predict student performance using a comprehensive end-to-end pipeline. It includes data preprocessing, model training, deployment, and continuous integration/continuous deployment (CI/CD) using Docker. The project is deployed on both AWS and Azure cloud platforms.
